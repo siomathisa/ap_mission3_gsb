@@ -22,7 +22,7 @@ namespace gsbRapports
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            string fam = this.cmbFam.Text;
         }
 
         private void FrmGererMed_Load(object sender, EventArgs e)
